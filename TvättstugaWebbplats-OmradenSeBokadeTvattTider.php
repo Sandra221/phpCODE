@@ -1,3 +1,4 @@
+//I denna kod har man använt sig av en sök funktion för admin för att se bokade tvätttider, 
 <?php include "adminOmraden.html";?>
 <?php
 
