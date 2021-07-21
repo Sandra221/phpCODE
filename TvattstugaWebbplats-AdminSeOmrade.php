@@ -1,3 +1,4 @@
+//I denna kod så har vi skapat en cookie för att se om personen är admin eller inte, för att därefter skicka personen till att få se postnummer och område där de tvättar 
 <?php include "adminOmraden.html";?>
 <?php
 
