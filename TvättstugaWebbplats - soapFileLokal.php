@@ -1,3 +1,4 @@
+//Vi höll på med SOAP för att
 <?php 
 $servername = "localhost";
 $username = "diaj0001";
